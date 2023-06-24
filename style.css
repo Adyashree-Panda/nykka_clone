@@ -1,0 +1,188 @@
+*{
+  margin:0%;
+  padding:0%;
+  font-family: 'Roboto', sans-serif;
+}
+.z-nav{
+  position:sticky;
+  top:0;
+  background: white;
+}
+.f-nav{
+  display:flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: rgb(252,155,171);
+  padding:18px;
+  font-weight: 900;
+  
+}
+.feature{
+  display:flex;
+  font-weight: 500;
+}
+  .app{
+    display:flex;
+    margin-inline:22px;
+  }
+  .app i{
+    margin-inline:8px;
+  }
+.sec-nav{
+  display:flex;
+  justify-content:center;
+  justify-content:space-around;
+  padding:11px;
+  font-weight:600;
+  .inputs{
+    display:flex;
+  }
+  .inputs button{
+    margin-inline:22px;
+    width:80px;
+    height:35px;
+    background-color:#e70472;
+    color:white;
+    font-size:16px;
+    border:none;
+    border-radius:5px;
+  }
+  .inputs input{
+    width:220px;
+    background-color:rgb(225,217,217);
+    border:none;
+    outline:none;
+    text-align:center;
+    font-size:16px;
+  }
+}
+.sec-nav img{
+  width:7%;
+  margin-left:22px;
+}
+.sec-nav a{
+  margin-inline:22px;
+}
+.items{
+  display:flex;
+  justify-content:center;
+  justify-content:space-around;
+  padding:5px;
+  font-weight: 500;
+}
+.items a{
+  list-style:none;
+  margin-inline:22px;
+  text-align:center;
+}
+.items button{
+  width:100px;
+  height:34px;
+  background-color:#e70472;
+  color:white;
+  font-size:16px;
+  border:none;
+  border-radius:5px;
+}
+.items li{
+  list-style:none;
+}
+.main-img img{
+  width:100%;
+}
+.pink img{
+  width:100%;
+}
+.pink h2{
+  text-align:center;
+  padding:7px;
+}
+.card{
+  display:flex;
+  justify-content:center;
+  justify-content:space-around;
+  margin-top:33px;
+}
+.card img{
+  margin-inline:22px;
+  width:44%;
+}
+.brand{
+  justify-content:center;
+  justify-content:space-around;
+  padding:20px;
+}
+.brand img{
+  margin-inline:32px;
+  width:44%;
+    justify-content:center;
+    justify-content:space-around;
+}
+.brand h2{
+  text-align:center;
+  pading:7px;
+}
+.only-nykka{
+  justify-content:center;
+  justify-content:space-around;
+  padding:22px;
+}
+.only-nykka h2{
+  text-align:center;
+}
+.only-nykka img{
+  justify-content:center;
+  justify-content:space-around;
+  width:44%;
+  margin-inline:22px;
+}
+.makeup{
+  display:flex;
+  justify-content:center;
+  justify-content:space-around;
+  padding:22px;
+}
+.makeup img{
+  width:22%;
+  margin-inline:18px;
+}
+.special{
+  justify-content: center;
+  justify-content: space-around;
+  padding:22px;
+}
+.special h2{
+  text-align:center;
+}
+.special img{
+   margin-inline:22px;
+  width:44%; 
+}
+.beauty{
+  justify-content: center;
+  justify-content: space-around;
+  padding:22px;
+}
+.beauty h2{
+  text-align:center;
+}
+.beauty img{
+   margin-inline:22px;
+  width:44%; 
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: #aaa7a7;
+}
+.footer li{
+  list-style: none;
+}
+.footer li a{
+  font-weight: 600;
+  font-size: 13px;
+}
+.footer  h2{
+  font-size: 18px;
+}
